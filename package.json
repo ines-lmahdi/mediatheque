@@ -1,0 +1,22 @@
+{
+  "name": "mediatheque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ines-lmahdi/mediatheque.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ines-lmahdi/mediatheque/issues"
+  },
+  "homepage": "https://github.com/ines-lmahdi/mediatheque#readme",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}

@@ -1,0 +1,12 @@
+API Betaseries
+
+CLÉ API 7D37F9EA3683
+Clé API : 7d37f9ea3683
+Clé secrète (pour OAuth 2.0) : cf5ebf31d57228cc515fb7224b0bafea
+
+API Grouvee (via giantbomb)
+InesLmahdi
+Key : 7a7cdb6f6a11d2c8b32c544c6af6467101238b15
+
+
+Crapodo1fa16.1!
